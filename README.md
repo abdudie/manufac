@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 ![prac1](https://github.com/abdudie/manufac/assets/107622271/6200b10d-f1a0-4af5-88cd-e1b715e4caee)
+![prac2](https://github.com/abdudie/manufac/assets/107622271/eaa4ff10-59bc-49ae-8faf-5641dc15e337)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Certainly! Here's a sample README.md for your GitHub project using Create React App. You can customize it to fit your project's specific details.
